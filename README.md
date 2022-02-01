@@ -8,6 +8,6 @@
 - As a group we created a dashboard using python that looks into NYPD Complaints for the year of 2021. 
 
 ## View of the dashboard
-
+![Dashboard](https://github.com/DavidGuzman1999/CTPDataScienceProject/blob/main/Screen%20Shot%202022-02-01%20at%206.38.11%20PM.png)
 
 
