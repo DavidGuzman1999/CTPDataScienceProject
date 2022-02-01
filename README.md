@@ -7,4 +7,7 @@
 ## Summary of Project
 - As a group we created a dashboard using python that looks into NYPD Complaints for the year of 2021. 
 
+## View of the dashboard
+
+
 
